@@ -1,0 +1,1 @@
+# Formato: nombre_archivo, presencia_objeto (1/0), cuadrante (1/2/3)
